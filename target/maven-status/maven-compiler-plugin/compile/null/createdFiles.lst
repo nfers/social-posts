@@ -1,0 +1,5 @@
+io/github/nfers/socialposts/api/controllers/UserController.class
+io/github/nfers/socialposts/user/entities/dto/CreateUserRequest.class
+META-INF/panache-archive.marker
+io/github/nfers/socialposts/user/entities/ExampleResource.class
+io/github/nfers/socialposts/user/entities/user.class
